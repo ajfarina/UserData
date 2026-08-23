@@ -2375,3 +2375,13 @@ MD SBTrlBal ForAve_E EasAve
 MO LCTrl MO210/291 FliRd_N
 MO LCTrl I-229(4A) I-229(6B)
 NE LCTrl US75_S I-680
+
+# North American Select International Bridges (nasib) ----- ----- ----- ----- -----
+MI AmbBri CAN/USA I-75/96
+ON AmbBri ON3 CAN/USA
+MI BluWatBri I-69/94 USA/CAN
+ON BluWatBri USA/CAN ON402
+NY LewQueBri CAN/USA I-190
+ON LewQueBri ON405 CAN/USA
+ME LeoBurBri US1 USA/CAN
+NB LeoBurBri USA/CAN NB144
